@@ -1,0 +1,4 @@
+interface:
+  display_name: "LINE 寫實 Q 版貼圖製作"
+  short_description: "照片轉八款繁體中文 Q 版貼圖，分階段確認文字與總圖，再切割去背"
+  default_prompt: "使用 $line-sticker-maker，以我上傳的圖片及指定主題製作 8 款 LINE 貼圖；先給我文字確認，再產圖，確認圖片後才切割去背。"
